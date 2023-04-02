@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_100.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_100"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 100, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Calque van het oorlogstoneel op Java met het plan der positi\u00ebn van het leger in de Vorstenlanden en de aldaar successief opgerichte redoutes.' Getekend door kapitein-adjudant De Stuers en luitenant-ingenieur Kortz."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/55/70/22/c2/34/34/4e/67/83/65/bf/80/64/3c/36/96/c7001e18-a825-48fe-8e66-83edcce1342f.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 4460,
+      "width": 5499,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/c7001e18-a825-48fe-8e66-83edcce1342f"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/55/70/22/c2/34/34/4e/67/83/65/bf/80/64/3c/36/96/c7001e18-a825-48fe-8e66-83edcce1342f.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/55/70/22/c2/34/34/4e/67/83/65/bf/80/64/3c/36/96/c7001e18-a825-48fe-8e66-83edcce1342f.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/36/c7001e18-a825-48fe-8e66-83edcce1342f\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4460,
+                "width": 5499,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/55/70/22/c2/34/34/4e/67/83/65/bf/80/64/3c/36/96/c7001e18-a825-48fe-8e66-83edcce1342f.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/55/70/22/c2/34/34/4e/67/83/65/bf/80/64/3c/36/96/c7001e18-a825-48fe-8e66-83edcce1342f.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
