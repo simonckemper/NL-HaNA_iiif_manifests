@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_17.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_17"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 17, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Nieuwe kaart van het gedeelte der Westkust van Sumatra, begrepen tusschen Padang en Batang-Kapay-Baai.' Getekend door J.T. Busscher. Manuscript."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/d8/15/6a/33/b3/76/4b/35/b4/ae/58/b9/db/65/05/eb/bb84c941-76e2-4a69-beac-c9fbcf6f2d11.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5682,
+      "width": 7282,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/bb84c941-76e2-4a69-beac-c9fbcf6f2d11"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/d8/15/6a/33/b3/76/4b/35/b4/ae/58/b9/db/65/05/eb/bb84c941-76e2-4a69-beac-c9fbcf6f2d11.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/d8/15/6a/33/b3/76/4b/35/b4/ae/58/b9/db/65/05/eb/bb84c941-76e2-4a69-beac-c9fbcf6f2d11.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/05/bb84c941-76e2-4a69-beac-c9fbcf6f2d11\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5682,
+                "width": 7282,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/d8/15/6a/33/b3/76/4b/35/b4/ae/58/b9/db/65/05/eb/bb84c941-76e2-4a69-beac-c9fbcf6f2d11.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/d8/15/6a/33/b3/76/4b/35/b4/ae/58/b9/db/65/05/eb/bb84c941-76e2-4a69-beac-c9fbcf6f2d11.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
