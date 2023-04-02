@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_34.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_34"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 34, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Kaart van den loop en de aangelegenheid der Palembangsche rivier, in connexie met Boemiagoeng en andere daar beneden langs den regter arm der rivier Toelang Bawang tot aan de zee gelegen plaatzen.' Samengesteld uit zeekaarten en opnemingen gedaan door M. Francis en de inlander L. Joesoep in 1818 en 1819, getekend door J.A. du Bois. Manuscript."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/57/b4/6d/a0/76/93/4d/c7/b0/5c/b3/43/ea/c6/6f/8b/13413e3f-6e87-4298-8997-6ca49e6aba3d.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7285,
+      "width": 6026,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/13413e3f-6e87-4298-8997-6ca49e6aba3d"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/57/b4/6d/a0/76/93/4d/c7/b0/5c/b3/43/ea/c6/6f/8b/13413e3f-6e87-4298-8997-6ca49e6aba3d.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/57/b4/6d/a0/76/93/4d/c7/b0/5c/b3/43/ea/c6/6f/8b/13413e3f-6e87-4298-8997-6ca49e6aba3d.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/6f/13413e3f-6e87-4298-8997-6ca49e6aba3d\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7285,
+                "width": 6026,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/57/b4/6d/a0/76/93/4d/c7/b0/5c/b3/43/ea/c6/6f/8b/13413e3f-6e87-4298-8997-6ca49e6aba3d.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/57/b4/6d/a0/76/93/4d/c7/b0/5c/b3/43/ea/c6/6f/8b/13413e3f-6e87-4298-8997-6ca49e6aba3d.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
