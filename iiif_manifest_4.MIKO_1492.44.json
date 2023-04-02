@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1492.44.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1492.44"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1492.44, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 44. Soela Eilanden, Westkust Halmahera, Oostkust Halmahera, Noordkust Nieuw-Guinea,  Zuidoostkust Soemba, Kleine Soenda Eilanden met diverse inzetten, "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/9f/fe/5d/44/af/64/4c/87/86/99/7e/16/36/ca/d1/1f/5438e2d5-7f51-4f4c-8797-4b430459bb1a.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 8304,
+      "width": 6547,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/5438e2d5-7f51-4f4c-8797-4b430459bb1a"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/9f/fe/5d/44/af/64/4c/87/86/99/7e/16/36/ca/d1/1f/5438e2d5-7f51-4f4c-8797-4b430459bb1a.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/9f/fe/5d/44/af/64/4c/87/86/99/7e/16/36/ca/d1/1f/5438e2d5-7f51-4f4c-8797-4b430459bb1a.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/d1/5438e2d5-7f51-4f4c-8797-4b430459bb1a\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8304,
+                "width": 6547,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/9f/fe/5d/44/af/64/4c/87/86/99/7e/16/36/ca/d1/1f/5438e2d5-7f51-4f4c-8797-4b430459bb1a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/9f/fe/5d/44/af/64/4c/87/86/99/7e/16/36/ca/d1/1f/5438e2d5-7f51-4f4c-8797-4b430459bb1a.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
