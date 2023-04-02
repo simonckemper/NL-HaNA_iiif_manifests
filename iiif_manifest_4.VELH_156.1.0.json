@@ -1,0 +1,206 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.VELH_156.1.0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.VELH_156.1.0"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.VELH, 156.1.0, 2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Titelblad, register en aantekening van Melvill van Carnbee"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is part of the collection:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Staten van Holland en West-Friesland', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Kamer Zeeland', 'Commissie Bepaling Lengte op Zee Verbetering v. Zeekaarten', 'Oud Archief Suriname: Gouvernementssecretarie', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Verenigde Oostindische Compagnie', 'Algemene Directie', 'Departement van de Equipage', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Depot-Generaal van Oorlog', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie van de Soci\u00ebteit van Berbice', 'College ter Admiraliteit te Amsterdam', 'Westindische Compagnie', 'Ministerie van Marine en Koloni\u00ebn', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Directie van de Soci\u00ebteit van Suriname', 'Raad der Aziatische Bezittingen en Etablissementen', 'Ministerie van Koophandel en Koloni\u00ebn', 'Kamer Amsterdam', 'Hollandse Divisie'}"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated families"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[]"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/04bbc723-6f97-4b55-895d-242e8462d237.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6572,
+      "width": 9791,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/04bbc723-6f97-4b55-895d-242e8462d237"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/04bbc723-6f97-4b55-895d-242e8462d237.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/04bbc723-6f97-4b55-895d-242e8462d237.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/87/04bbc723-6f97-4b55-895d-242e8462d237\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6572,
+                "width": 9791,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/04bbc723-6f97-4b55-895d-242e8462d237.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/04bbc723-6f97-4b55-895d-242e8462d237.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/494d02ee-2a3b-4c47-be63-ea559832e92c.jp2/info.json/canvas/p2",
+      "type": "Canvas",
+      "height": 6547,
+      "width": 9791,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/494d02ee-2a3b-4c47-be63-ea559832e92c"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/494d02ee-2a3b-4c47-be63-ea559832e92c.jp2/info.json/canvas/p2/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/494d02ee-2a3b-4c47-be63-ea559832e92c.jp2/info.json/canvas/p2/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/87/494d02ee-2a3b-4c47-be63-ea559832e92c\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6547,
+                "width": 9791,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/494d02ee-2a3b-4c47-be63-ea559832e92c.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/0e/e0/5d/db/71/9f/4c/9d/a8/d6/51/a5/a6/ea/87/29/494d02ee-2a3b-4c47-be63-ea559832e92c.jp2/info.json/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
