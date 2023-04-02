@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1250.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1250"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1250, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Westkust Java. Vierde Punt tot Oud-Anjer.' Trigonometrisch opgenomen door luitenant ter zee A.E. Zimmerman. Litho."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/dc/fc/9b/72/a4/5e/4a/c7/8c/4c/64/9a/3a/42/56/a8/45707df3-fca8-4bae-9971-2f1c68abc82c.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7579,
+      "width": 6803,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/45707df3-fca8-4bae-9971-2f1c68abc82c"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/dc/fc/9b/72/a4/5e/4a/c7/8c/4c/64/9a/3a/42/56/a8/45707df3-fca8-4bae-9971-2f1c68abc82c.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/dc/fc/9b/72/a4/5e/4a/c7/8c/4c/64/9a/3a/42/56/a8/45707df3-fca8-4bae-9971-2f1c68abc82c.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/56/45707df3-fca8-4bae-9971-2f1c68abc82c\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7579,
+                "width": 6803,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/dc/fc/9b/72/a4/5e/4a/c7/8c/4c/64/9a/3a/42/56/a8/45707df3-fca8-4bae-9971-2f1c68abc82c.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/dc/fc/9b/72/a4/5e/4a/c7/8c/4c/64/9a/3a/42/56/a8/45707df3-fca8-4bae-9971-2f1c68abc82c.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
