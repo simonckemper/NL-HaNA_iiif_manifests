@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_235.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_235"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 235, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Schets van de bank met derzelver uitbreiding sedert 1817 voor de groote rivier te Batavia, benevens de geprojecteerde, en gedeeltelijk ge\u00ebxecuteerde zeehoofden.' Opgenomen in opdracht van de inspecteur van de waterstaat. Getekend door de landmeter J. Vermandel."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/a7/06/f5/5e/b1/d6/44/b7/9c/07/a0/dc/74/1b/56/bf/e74fc4b2-2236-4035-8bc8-99f9b6fe44bd.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7658,
+      "width": 11060,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/e74fc4b2-2236-4035-8bc8-99f9b6fe44bd"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/a7/06/f5/5e/b1/d6/44/b7/9c/07/a0/dc/74/1b/56/bf/e74fc4b2-2236-4035-8bc8-99f9b6fe44bd.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/a7/06/f5/5e/b1/d6/44/b7/9c/07/a0/dc/74/1b/56/bf/e74fc4b2-2236-4035-8bc8-99f9b6fe44bd.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/56/e74fc4b2-2236-4035-8bc8-99f9b6fe44bd\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7658,
+                "width": 11060,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/a7/06/f5/5e/b1/d6/44/b7/9c/07/a0/dc/74/1b/56/bf/e74fc4b2-2236-4035-8bc8-99f9b6fe44bd.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/a7/06/f5/5e/b1/d6/44/b7/9c/07/a0/dc/74/1b/56/bf/e74fc4b2-2236-4035-8bc8-99f9b6fe44bd.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
