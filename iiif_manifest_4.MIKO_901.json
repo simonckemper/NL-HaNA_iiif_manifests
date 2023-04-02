@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_901.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_901"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 901, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overzichtskaart Tagal, "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/ae/20/05/c8/ce/5b/4f/2a/b5/f4/fc/00/57/20/6f/c0/e633370f-76a4-4590-89cc-58a1b0dc3437.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6082,
+      "width": 10837,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/e633370f-76a4-4590-89cc-58a1b0dc3437"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/ae/20/05/c8/ce/5b/4f/2a/b5/f4/fc/00/57/20/6f/c0/e633370f-76a4-4590-89cc-58a1b0dc3437.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/ae/20/05/c8/ce/5b/4f/2a/b5/f4/fc/00/57/20/6f/c0/e633370f-76a4-4590-89cc-58a1b0dc3437.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/6f/e633370f-76a4-4590-89cc-58a1b0dc3437\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6082,
+                "width": 10837,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/ae/20/05/c8/ce/5b/4f/2a/b5/f4/fc/00/57/20/6f/c0/e633370f-76a4-4590-89cc-58a1b0dc3437.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/ae/20/05/c8/ce/5b/4f/2a/b5/f4/fc/00/57/20/6f/c0/e633370f-76a4-4590-89cc-58a1b0dc3437.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
