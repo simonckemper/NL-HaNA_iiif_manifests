@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1275.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1275"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1275, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Noordkust Java. Reede Cheribon.' Trigonometrisch opgenomen met Zr. Ms. opnemingsvaartuig Melvill van Carnbee, kommandant luitenant ter zee H.F. Kouwenberg. Litho."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/17/e1/1f/e5/34/4c/40/c0/ae/5e/0a/27/2d/95/99/20/e0518356-8fc6-4365-9c50-e64e0a83c4e8.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6736,
+      "width": 7464,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/e0518356-8fc6-4365-9c50-e64e0a83c4e8"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/17/e1/1f/e5/34/4c/40/c0/ae/5e/0a/27/2d/95/99/20/e0518356-8fc6-4365-9c50-e64e0a83c4e8.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/17/e1/1f/e5/34/4c/40/c0/ae/5e/0a/27/2d/95/99/20/e0518356-8fc6-4365-9c50-e64e0a83c4e8.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/99/e0518356-8fc6-4365-9c50-e64e0a83c4e8\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6736,
+                "width": 7464,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/17/e1/1f/e5/34/4c/40/c0/ae/5e/0a/27/2d/95/99/20/e0518356-8fc6-4365-9c50-e64e0a83c4e8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/17/e1/1f/e5/34/4c/40/c0/ae/5e/0a/27/2d/95/99/20/e0518356-8fc6-4365-9c50-e64e0a83c4e8.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
