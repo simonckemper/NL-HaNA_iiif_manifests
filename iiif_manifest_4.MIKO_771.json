@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_771.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_771"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 771, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Manuscriptkaart der reede van Batavia met de verschillende vaarwaters naar dezelve.' Trigonometrisch opgenomen in 1848 in opdracht van de schout-bij-nacht E. Lucas met Zr. Ms. schoener Krokodil en ijzeren stoomschip Hekla door luitenants ter zee B.G. Escher, J.A.C. Eschauzier, B.H. Staring en E.H. Boom. Getekend door G.A. G\u00fcnther. Herziene uitgave van de Commissie tot verbetering der Oost-Indische zeekaarten, Amsterdam, 1857."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/51/41/8c/b0/a3/f2/4d/8e/90/4a/91/27/7f/de/0f/8e/38757342-c5ee-4b79-b12d-60ad6177efd2.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 9485,
+      "width": 14446,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/38757342-c5ee-4b79-b12d-60ad6177efd2"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/51/41/8c/b0/a3/f2/4d/8e/90/4a/91/27/7f/de/0f/8e/38757342-c5ee-4b79-b12d-60ad6177efd2.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/51/41/8c/b0/a3/f2/4d/8e/90/4a/91/27/7f/de/0f/8e/38757342-c5ee-4b79-b12d-60ad6177efd2.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/0f/38757342-c5ee-4b79-b12d-60ad6177efd2\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 9485,
+                "width": 14446,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/51/41/8c/b0/a3/f2/4d/8e/90/4a/91/27/7f/de/0f/8e/38757342-c5ee-4b79-b12d-60ad6177efd2.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/51/41/8c/b0/a3/f2/4d/8e/90/4a/91/27/7f/de/0f/8e/38757342-c5ee-4b79-b12d-60ad6177efd2.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
