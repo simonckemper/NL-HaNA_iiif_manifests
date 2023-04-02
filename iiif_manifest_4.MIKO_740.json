@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_740.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_740"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 740, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Militaire kaart der marga's Wai-Orang, Radja-Bassa, Dantaran en Negara-Ratoe in de Lampongsche Districten.' Samengesteld door luitenant der infanterie F. G. Steck in 1856. Kopie door H. von Rosenberg op het Topografisch Bureau der genie, Batavia. Calque."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/20/92/8f/8a/63/43/4a/af/a3/02/65/e7/d4/1b/a5/32/6bc0d1ff-6b88-4f11-b14d-b6a4cb8b9cb1.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 14512,
+      "width": 7217,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/6bc0d1ff-6b88-4f11-b14d-b6a4cb8b9cb1"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/20/92/8f/8a/63/43/4a/af/a3/02/65/e7/d4/1b/a5/32/6bc0d1ff-6b88-4f11-b14d-b6a4cb8b9cb1.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/20/92/8f/8a/63/43/4a/af/a3/02/65/e7/d4/1b/a5/32/6bc0d1ff-6b88-4f11-b14d-b6a4cb8b9cb1.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/a5/6bc0d1ff-6b88-4f11-b14d-b6a4cb8b9cb1\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 14512,
+                "width": 7217,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/20/92/8f/8a/63/43/4a/af/a3/02/65/e7/d4/1b/a5/32/6bc0d1ff-6b88-4f11-b14d-b6a4cb8b9cb1.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/20/92/8f/8a/63/43/4a/af/a3/02/65/e7/d4/1b/a5/32/6bc0d1ff-6b88-4f11-b14d-b6a4cb8b9cb1.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
