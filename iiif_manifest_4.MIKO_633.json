@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_633.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_633"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 633, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Kaart van het Westelijke gedeelte van Timor, bevattende de bezittingen der Nederlanders en van hunne bondgenoten aldaar.' Getekend door S. Muller. Geologische schets van Timors westelijk gedeelte en van de eilanden Kambing en Samauw. Litho."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/98/dc/d8/a4/e6/a0/40/ed/be/72/1d/e9/1e/7e/a3/16/ec32ddc6-fd9b-4088-bed0-af925238b019.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3693,
+      "width": 5128,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/ec32ddc6-fd9b-4088-bed0-af925238b019"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/98/dc/d8/a4/e6/a0/40/ed/be/72/1d/e9/1e/7e/a3/16/ec32ddc6-fd9b-4088-bed0-af925238b019.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/98/dc/d8/a4/e6/a0/40/ed/be/72/1d/e9/1e/7e/a3/16/ec32ddc6-fd9b-4088-bed0-af925238b019.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/a3/ec32ddc6-fd9b-4088-bed0-af925238b019\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3693,
+                "width": 5128,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/98/dc/d8/a4/e6/a0/40/ed/be/72/1d/e9/1e/7e/a3/16/ec32ddc6-fd9b-4088-bed0-af925238b019.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/98/dc/d8/a4/e6/a0/40/ed/be/72/1d/e9/1e/7e/a3/16/ec32ddc6-fd9b-4088-bed0-af925238b019.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
