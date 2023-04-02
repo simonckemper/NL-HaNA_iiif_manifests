@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_2664.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_2664"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 2664, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Java and Madoera"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/0b/a2/c0/3a/78/4c/43/c0/82/62/d9/d8/7d/14/39/1c/25464072-8372-4da6-ad26-57ec878b3ff2.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5127,
+      "width": 7078,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/25464072-8372-4da6-ad26-57ec878b3ff2"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/0b/a2/c0/3a/78/4c/43/c0/82/62/d9/d8/7d/14/39/1c/25464072-8372-4da6-ad26-57ec878b3ff2.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/0b/a2/c0/3a/78/4c/43/c0/82/62/d9/d8/7d/14/39/1c/25464072-8372-4da6-ad26-57ec878b3ff2.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/39/25464072-8372-4da6-ad26-57ec878b3ff2\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5127,
+                "width": 7078,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/0b/a2/c0/3a/78/4c/43/c0/82/62/d9/d8/7d/14/39/1c/25464072-8372-4da6-ad26-57ec878b3ff2.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/0b/a2/c0/3a/78/4c/43/c0/82/62/d9/d8/7d/14/39/1c/25464072-8372-4da6-ad26-57ec878b3ff2.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
