@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_600.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_600"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 600, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Reduit van het fort \"Prins Frederik\" te Batavia, met aanwijzing van het gebruik hetwelk van ieder lokaal in hetzelve wordt gemaakt.' Schaal van 2 ned. el op de duim (1:200). Manuscript."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/a3/f3/f6/ae/78/57/44/7e/a8/d8/db/33/2e/90/1a/2a/aec68502-c853-4b21-9036-bb1584bfab8a.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7345,
+      "width": 11859,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/aec68502-c853-4b21-9036-bb1584bfab8a"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/a3/f3/f6/ae/78/57/44/7e/a8/d8/db/33/2e/90/1a/2a/aec68502-c853-4b21-9036-bb1584bfab8a.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/a3/f3/f6/ae/78/57/44/7e/a8/d8/db/33/2e/90/1a/2a/aec68502-c853-4b21-9036-bb1584bfab8a.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/1a/aec68502-c853-4b21-9036-bb1584bfab8a\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7345,
+                "width": 11859,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/a3/f3/f6/ae/78/57/44/7e/a8/d8/db/33/2e/90/1a/2a/aec68502-c853-4b21-9036-bb1584bfab8a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/a3/f3/f6/ae/78/57/44/7e/a8/d8/db/33/2e/90/1a/2a/aec68502-c853-4b21-9036-bb1584bfab8a.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
