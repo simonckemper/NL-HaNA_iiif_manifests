@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1277.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1277"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1277, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Kaart van de Patjitan Baai.' Opgenomen in 1831 door P.J.B. de Perez, luitenant ter zee. Uitgave van Seyffardt's Boekhandel, Amsterdam. Litho."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/65/70/82/f6/1e/39/47/87/97/73/5c/ea/c3/cc/38/d9/f613f884-8994-4470-b53d-47b2bd1b6b09.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5112,
+      "width": 6218,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/f613f884-8994-4470-b53d-47b2bd1b6b09"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/65/70/82/f6/1e/39/47/87/97/73/5c/ea/c3/cc/38/d9/f613f884-8994-4470-b53d-47b2bd1b6b09.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/65/70/82/f6/1e/39/47/87/97/73/5c/ea/c3/cc/38/d9/f613f884-8994-4470-b53d-47b2bd1b6b09.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/38/f613f884-8994-4470-b53d-47b2bd1b6b09\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5112,
+                "width": 6218,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/65/70/82/f6/1e/39/47/87/97/73/5c/ea/c3/cc/38/d9/f613f884-8994-4470-b53d-47b2bd1b6b09.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/65/70/82/f6/1e/39/47/87/97/73/5c/ea/c3/cc/38/d9/f613f884-8994-4470-b53d-47b2bd1b6b09.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
