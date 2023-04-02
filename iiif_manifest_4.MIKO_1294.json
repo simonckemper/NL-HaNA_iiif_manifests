@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1294.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1294"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1294, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Post- en telegraafkaart van Java en Madoera.' Samengesteld in opdracht van de PTT in Nederlands Indi\u00eb, door inspecteur J. Berman. Uitgave van het Topografisch Bureau, Batavia."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This records is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Zaken Overzee', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Nationale nijverheid en Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/09/0b/3a/26/58/66/4c/ec/b6/7e/db/30/af/b0/a4/eb/9c6b52ec-33ee-40f7-a40c-d1d74ec39174.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6228,
+      "width": 14192,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/9c6b52ec-33ee-40f7-a40c-d1d74ec39174"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/09/0b/3a/26/58/66/4c/ec/b6/7e/db/30/af/b0/a4/eb/9c6b52ec-33ee-40f7-a40c-d1d74ec39174.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/09/0b/3a/26/58/66/4c/ec/b6/7e/db/30/af/b0/a4/eb/9c6b52ec-33ee-40f7-a40c-d1d74ec39174.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/a4/9c6b52ec-33ee-40f7-a40c-d1d74ec39174\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6228,
+                "width": 14192,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/09/0b/3a/26/58/66/4c/ec/b6/7e/db/30/af/b0/a4/eb/9c6b52ec-33ee-40f7-a40c-d1d74ec39174.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/09/0b/3a/26/58/66/4c/ec/b6/7e/db/30/af/b0/a4/eb/9c6b52ec-33ee-40f7-a40c-d1d74ec39174.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
