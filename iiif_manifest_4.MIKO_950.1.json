@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_950.1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_950.1"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 950.1, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 1. Bovenste deel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of encompassing item"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 1. From Hillah to the ruins of Niffer with the rivers Euphrates and Tigris"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "encompassing item id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "950.1-.2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subcollection"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Trigonometrical survey of a part of Mesopotamia. Met inzetten van locaties."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "subcollection id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "950.1-.3"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Zaken Overzee', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Nationale nijverheid en Koloni\u00ebn', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/27/43/0f/f5/dc/94/45/a4/b5/9a/28/42/66/f3/e9/f9/c6ee3ed8-2719-4e69-9f9d-560db3e39756.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6614,
+      "width": 9016,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/c6ee3ed8-2719-4e69-9f9d-560db3e39756"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/27/43/0f/f5/dc/94/45/a4/b5/9a/28/42/66/f3/e9/f9/c6ee3ed8-2719-4e69-9f9d-560db3e39756.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/27/43/0f/f5/dc/94/45/a4/b5/9a/28/42/66/f3/e9/f9/c6ee3ed8-2719-4e69-9f9d-560db3e39756.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/e9/c6ee3ed8-2719-4e69-9f9d-560db3e39756\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6614,
+                "width": 9016,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/27/43/0f/f5/dc/94/45/a4/b5/9a/28/42/66/f3/e9/f9/c6ee3ed8-2719-4e69-9f9d-560db3e39756.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/27/43/0f/f5/dc/94/45/a4/b5/9a/28/42/66/f3/e9/f9/c6ee3ed8-2719-4e69-9f9d-560db3e39756.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
