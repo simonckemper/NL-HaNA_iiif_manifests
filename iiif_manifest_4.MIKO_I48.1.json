@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_I48.1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_I48.1"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, I48.1, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 48, eerste versie, gekleurd exemplaar, "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of encompassing item"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 48"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "encompassing item id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "I48.1-.2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subcollection"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Losbladig exemplaar van ''The Indian Atlas'', "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "subcollection id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "I4-I138"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Zaken Overzee', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Nationale nijverheid en Koloni\u00ebn', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/7b/10/1a/8d/0a/e2/46/32/ac/22/00/cd/cc/12/d0/b8/62d3f386-30c7-4e34-b6d3-0106c495b816.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 8053,
+      "width": 11937,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/62d3f386-30c7-4e34-b6d3-0106c495b816"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/7b/10/1a/8d/0a/e2/46/32/ac/22/00/cd/cc/12/d0/b8/62d3f386-30c7-4e34-b6d3-0106c495b816.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/7b/10/1a/8d/0a/e2/46/32/ac/22/00/cd/cc/12/d0/b8/62d3f386-30c7-4e34-b6d3-0106c495b816.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/d0/62d3f386-30c7-4e34-b6d3-0106c495b816\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8053,
+                "width": 11937,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/7b/10/1a/8d/0a/e2/46/32/ac/22/00/cd/cc/12/d0/b8/62d3f386-30c7-4e34-b6d3-0106c495b816.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/7b/10/1a/8d/0a/e2/46/32/ac/22/00/cd/cc/12/d0/b8/62d3f386-30c7-4e34-b6d3-0106c495b816.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
