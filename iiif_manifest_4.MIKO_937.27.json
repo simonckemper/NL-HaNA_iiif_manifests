@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_937.27.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_937.27"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 937.27, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad VII, deelblad 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of encompassing item"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad VII. Districts of Rawal Pindi, Jhilam and Shahpoor"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "encompassing item id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "937.27-.28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subcollection"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Grootschalige versie, "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "subcollection id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "937.3-.30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Zaken Overzee', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Nationale nijverheid en Koloni\u00ebn', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/b8/3a/f7/dc/e6/7c/41/41/89/ed/9d/7a/6c/0c/b7/ae/2c58f15c-5030-4863-9851-d3a0f5a7eeaa.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7190,
+      "width": 10382,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/2c58f15c-5030-4863-9851-d3a0f5a7eeaa"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/b8/3a/f7/dc/e6/7c/41/41/89/ed/9d/7a/6c/0c/b7/ae/2c58f15c-5030-4863-9851-d3a0f5a7eeaa.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/b8/3a/f7/dc/e6/7c/41/41/89/ed/9d/7a/6c/0c/b7/ae/2c58f15c-5030-4863-9851-d3a0f5a7eeaa.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/b7/2c58f15c-5030-4863-9851-d3a0f5a7eeaa\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7190,
+                "width": 10382,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/b8/3a/f7/dc/e6/7c/41/41/89/ed/9d/7a/6c/0c/b7/ae/2c58f15c-5030-4863-9851-d3a0f5a7eeaa.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/b8/3a/f7/dc/e6/7c/41/41/89/ed/9d/7a/6c/0c/b7/ae/2c58f15c-5030-4863-9851-d3a0f5a7eeaa.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
