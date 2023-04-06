@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1361.198.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1361.198"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1361.198, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "XV Kajoeng blad n, "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of encompassing item"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kaart der Residentie Wester-Afdeeling van Borneo: Weg- en rivierkaart, "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "encompassing item id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1361.47-.292"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subcollection"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kaarten van de Residentie Westerafdeling van Borneo op schalen 1:200.000 ('Graadafdelingsbladen') en 1:50.000 ('Weg- en rivierkaart')"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "subcollection id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1361.1-.292"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Zaken Overzee', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Nationale nijverheid en Koloni\u00ebn', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/f6/dd/1f/2f/c5/7c/4c/5a/85/de/f9/57/85/55/7b/94/7daa1a5d-03ca-4c64-87de-f2f5f3805746.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7790,
+      "width": 7232,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/7daa1a5d-03ca-4c64-87de-f2f5f3805746"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/f6/dd/1f/2f/c5/7c/4c/5a/85/de/f9/57/85/55/7b/94/7daa1a5d-03ca-4c64-87de-f2f5f3805746.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/f6/dd/1f/2f/c5/7c/4c/5a/85/de/f9/57/85/55/7b/94/7daa1a5d-03ca-4c64-87de-f2f5f3805746.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/7b/7daa1a5d-03ca-4c64-87de-f2f5f3805746\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7790,
+                "width": 7232,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/f6/dd/1f/2f/c5/7c/4c/5a/85/de/f9/57/85/55/7b/94/7daa1a5d-03ca-4c64-87de-f2f5f3805746.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/f6/dd/1f/2f/c5/7c/4c/5a/85/de/f9/57/85/55/7b/94/7daa1a5d-03ca-4c64-87de-f2f5f3805746.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
