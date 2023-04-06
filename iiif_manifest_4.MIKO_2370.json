@@ -1,0 +1,182 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_2370.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_2370"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 2370, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Oostkust Sumatra. Mond der Belawan- en Deli-rivier.'Opgenomen met Hr.Ms. opnemingsvaartuig Tijdeman 1919. Uitgave van het ministerie van marine, Afdeling Hydrografie, Den Haag."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1927"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "map scale"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaal 1:40.000. "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subseries"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sumatra en omliggende eilanden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "subseries id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "I.4.A.4.3"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "series id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "I.4.A.4"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Zaken Overzee', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Nationale nijverheid en Koloni\u00ebn', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/77/69/83/3d/60/ae/46/d6/bb/2e/05/ed/61/d5/25/bc/0b45fab6-5729-4413-8534-d57111b7a5e4.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6593,
+      "width": 6939,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/0b45fab6-5729-4413-8534-d57111b7a5e4"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/77/69/83/3d/60/ae/46/d6/bb/2e/05/ed/61/d5/25/bc/0b45fab6-5729-4413-8534-d57111b7a5e4.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/77/69/83/3d/60/ae/46/d6/bb/2e/05/ed/61/d5/25/bc/0b45fab6-5729-4413-8534-d57111b7a5e4.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/25/0b45fab6-5729-4413-8534-d57111b7a5e4\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6593,
+                "width": 6939,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/77/69/83/3d/60/ae/46/d6/bb/2e/05/ed/61/d5/25/bc/0b45fab6-5729-4413-8534-d57111b7a5e4.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/77/69/83/3d/60/ae/46/d6/bb/2e/05/ed/61/d5/25/bc/0b45fab6-5729-4413-8534-d57111b7a5e4.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
