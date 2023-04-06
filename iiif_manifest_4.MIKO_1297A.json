@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1297A.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1297A"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1297A, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of encompassing item"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Tweede geologische kaart van Blitong (Billiton).' Getekend door C. de Groot."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "encompassing item id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1297A-H"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subseries"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Riouw, Lingga, Bangka, Billiton en omliggende eilanden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "subseries id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "I.4.A.5.1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "series id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "I.4.A.5"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Ministerie van Marine en Koloni\u00ebn', 'Nationale Nijverheid en Koloni\u00ebn', 'Ministerie van Waterstaat', 'Regeringscommissaris voor Indonesische Aangelegenheden', 'Ministerie van Zaken Overzee', 'Secretariaat van Koophandel en Koloni\u00ebn', 'Ministerie van Overzeese Rijksdelen', 'Ministerie van Nationale Nijverheid en Koloni\u00ebn', 'Nationale nijverheid en Koloni\u00ebn', 'Generale Directie van Koophandel en Koloni\u00ebn', 'Ministerie van Uniezaken en Overzeese Rijksdelen', 'Ministerie van Publiek Onderwijs', 'Ministerie van Overzeese Gebiedsdelen', 'Ministerie van Koloni\u00ebn'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/13/41/be/77/00/88/4b/35/80/b2/94/c9/cb/10/3d/e1/bf4313c2-55e0-4596-bf5e-4e8871b1134e.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6230,
+      "width": 6525,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/bf4313c2-55e0-4596-bf5e-4e8871b1134e"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/13/41/be/77/00/88/4b/35/80/b2/94/c9/cb/10/3d/e1/bf4313c2-55e0-4596-bf5e-4e8871b1134e.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/13/41/be/77/00/88/4b/35/80/b2/94/c9/cb/10/3d/e1/bf4313c2-55e0-4596-bf5e-4e8871b1134e.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/3d/bf4313c2-55e0-4596-bf5e-4e8871b1134e\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6230,
+                "width": 6525,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/13/41/be/77/00/88/4b/35/80/b2/94/c9/cb/10/3d/e1/bf4313c2-55e0-4596-bf5e-4e8871b1134e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/13/41/be/77/00/88/4b/35/80/b2/94/c9/cb/10/3d/e1/bf4313c2-55e0-4596-bf5e-4e8871b1134e.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
