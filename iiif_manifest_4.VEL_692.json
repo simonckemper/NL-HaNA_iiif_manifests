@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.VEL_692.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.VEL_692"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.VEL, 692, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Pas Kaart van de Zeekusten van "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "map scale"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaal van 10 Duitse mijlen = 100 strepen."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subseries"
+        ]
+      },
+      "value": {
+        "nl": [
+          "\n                          "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Comptoir Hoorn', 'Departement van de Equipage', 'Boekhouder- en Ontvanger-Generaal', 'Hollandse Divisie', 'Depot-Generaal van Oorlog', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Verenigde Oostindische Compagnie', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Kamer Amsterdam', 'Westindische Compagnie', 'Ministerie van Koophandel en Koloni\u00ebn', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Ministerie van Marine en Koloni\u00ebn', 'Oud Archief Suriname: Gouvernementssecretarie', 'Comptoir Enkhuizen', 'Kamer Zeeland', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Directie van de Soci\u00ebteit van Berbice', 'Directie van de Soci\u00ebteit van Suriname', 'Staten van Holland en West-Friesland', 'Algemene Directie'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/d6/89/42/49/d5/95/40/a3/bb/2c/07/ff/6b/7f/49/9c/9bd47dc2-7ee5-4bd1-8715-340b97a51153.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6623,
+      "width": 7541,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/9bd47dc2-7ee5-4bd1-8715-340b97a51153"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/d6/89/42/49/d5/95/40/a3/bb/2c/07/ff/6b/7f/49/9c/9bd47dc2-7ee5-4bd1-8715-340b97a51153.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/d6/89/42/49/d5/95/40/a3/bb/2c/07/ff/6b/7f/49/9c/9bd47dc2-7ee5-4bd1-8715-340b97a51153.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/49/9bd47dc2-7ee5-4bd1-8715-340b97a51153\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6623,
+                "width": 7541,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/d6/89/42/49/d5/95/40/a3/bb/2c/07/ff/6b/7f/49/9c/9bd47dc2-7ee5-4bd1-8715-340b97a51153.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/d6/89/42/49/d5/95/40/a3/bb/2c/07/ff/6b/7f/49/9c/9bd47dc2-7ee5-4bd1-8715-340b97a51153.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
