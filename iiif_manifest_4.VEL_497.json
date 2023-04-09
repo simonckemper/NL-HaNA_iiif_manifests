@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.VEL_497.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.VEL_497"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.VEL, 497, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kaart van de Verkende gedeelten der Z.W. Kust van "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1829."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the subseries"
+        ]
+      },
+      "value": {
+        "nl": [
+          "\n                        "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "meta series id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "B.3.20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Comptoir Hoorn', 'Departement van de Equipage', 'Boekhouder- en Ontvanger-Generaal', 'Hollandse Divisie', 'Depot-Generaal van Oorlog', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Verenigde Oostindische Compagnie', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Kamer Amsterdam', 'Westindische Compagnie', 'Ministerie van Koophandel en Koloni\u00ebn', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Ministerie van Marine en Koloni\u00ebn', 'Oud Archief Suriname: Gouvernementssecretarie', 'Comptoir Enkhuizen', 'Kamer Zeeland', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Directie van de Soci\u00ebteit van Berbice', 'Directie van de Soci\u00ebteit van Suriname', 'Staten van Holland en West-Friesland', 'Algemene Directie'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/94/58/23/e0/be/ff/42/55/b8/0d/09/4d/d2/76/45/4c/f9da4045-3874-4ee2-a57a-bdfe4e37c432.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6597,
+      "width": 8670,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/f9da4045-3874-4ee2-a57a-bdfe4e37c432"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/94/58/23/e0/be/ff/42/55/b8/0d/09/4d/d2/76/45/4c/f9da4045-3874-4ee2-a57a-bdfe4e37c432.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/94/58/23/e0/be/ff/42/55/b8/0d/09/4d/d2/76/45/4c/f9da4045-3874-4ee2-a57a-bdfe4e37c432.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/45/f9da4045-3874-4ee2-a57a-bdfe4e37c432\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6597,
+                "width": 8670,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/94/58/23/e0/be/ff/42/55/b8/0d/09/4d/d2/76/45/4c/f9da4045-3874-4ee2-a57a-bdfe4e37c432.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/94/58/23/e0/be/ff/42/55/b8/0d/09/4d/d2/76/45/4c/f9da4045-3874-4ee2-a57a-bdfe4e37c432.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
