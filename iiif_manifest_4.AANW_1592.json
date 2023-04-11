@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_1592.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_1592"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 1592, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[Java]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voormalige collecties RST, VKOS, KOLA en ONK"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/77/f1/ff/8c/e3/0d/4c/de/9d/66/5c/51/50/9c/9a/5d/d122adbe-6d60-4894-9df0-f7602d91d457.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 4704,
+      "width": 3948,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/d122adbe-6d60-4894-9df0-f7602d91d457"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/77/f1/ff/8c/e3/0d/4c/de/9d/66/5c/51/50/9c/9a/5d/d122adbe-6d60-4894-9df0-f7602d91d457.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/77/f1/ff/8c/e3/0d/4c/de/9d/66/5c/51/50/9c/9a/5d/d122adbe-6d60-4894-9df0-f7602d91d457.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/9a/d122adbe-6d60-4894-9df0-f7602d91d457\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4704,
+                "width": 3948,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/77/f1/ff/8c/e3/0d/4c/de/9d/66/5c/51/50/9c/9a/5d/d122adbe-6d60-4894-9df0-f7602d91d457.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/77/f1/ff/8c/e3/0d/4c/de/9d/66/5c/51/50/9c/9a/5d/d122adbe-6d60-4894-9df0-f7602d91d457.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
