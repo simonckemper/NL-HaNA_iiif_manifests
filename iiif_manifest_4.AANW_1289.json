@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_1289.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_1289"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 1289, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Paramaribo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[ca. 1775]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "map scale"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaal 11 RR.= 156 mm [ca. 1:265]."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voormalige collecties RST, VKOS, KOLA en ONK"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/23/ea/c3/67/84/1c/45/72/87/fe/05/bd/f7/1f/cd/ee/7b0c95d5-0fc1-4c21-bb4b-082c8fc2598f.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5468,
+      "width": 7465,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/7b0c95d5-0fc1-4c21-bb4b-082c8fc2598f"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/23/ea/c3/67/84/1c/45/72/87/fe/05/bd/f7/1f/cd/ee/7b0c95d5-0fc1-4c21-bb4b-082c8fc2598f.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/23/ea/c3/67/84/1c/45/72/87/fe/05/bd/f7/1f/cd/ee/7b0c95d5-0fc1-4c21-bb4b-082c8fc2598f.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/cd/7b0c95d5-0fc1-4c21-bb4b-082c8fc2598f\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5468,
+                "width": 7465,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/23/ea/c3/67/84/1c/45/72/87/fe/05/bd/f7/1f/cd/ee/7b0c95d5-0fc1-4c21-bb4b-082c8fc2598f.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/23/ea/c3/67/84/1c/45/72/87/fe/05/bd/f7/1f/cd/ee/7b0c95d5-0fc1-4c21-bb4b-082c8fc2598f.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
