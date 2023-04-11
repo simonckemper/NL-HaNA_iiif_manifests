@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_1420.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_1420"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 1420, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kaap de Goede Hoop"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[18e eeuw]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voormalige collecties RST, VKOS, KOLA en ONK"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/c2/8e/cc/61/e2/74/4b/c9/9d/cf/f0/e5/2a/62/9c/33/1f6dd9c5-7a7c-4efc-8ec2-7eab076f57f6.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 10862,
+      "width": 14394,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/1f6dd9c5-7a7c-4efc-8ec2-7eab076f57f6"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/c2/8e/cc/61/e2/74/4b/c9/9d/cf/f0/e5/2a/62/9c/33/1f6dd9c5-7a7c-4efc-8ec2-7eab076f57f6.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/c2/8e/cc/61/e2/74/4b/c9/9d/cf/f0/e5/2a/62/9c/33/1f6dd9c5-7a7c-4efc-8ec2-7eab076f57f6.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/9c/1f6dd9c5-7a7c-4efc-8ec2-7eab076f57f6\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 10862,
+                "width": 14394,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/c2/8e/cc/61/e2/74/4b/c9/9d/cf/f0/e5/2a/62/9c/33/1f6dd9c5-7a7c-4efc-8ec2-7eab076f57f6.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/c2/8e/cc/61/e2/74/4b/c9/9d/cf/f0/e5/2a/62/9c/33/1f6dd9c5-7a7c-4efc-8ec2-7eab076f57f6.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
