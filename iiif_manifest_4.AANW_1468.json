@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_1468.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_1468"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 1468, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Batavia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1733"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "map scale"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaal 500 RR.=110 mm [ca. 1:17.000]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voormalige collecties RST, VKOS, KOLA en ONK"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/ec/c2/47/fe/85/c5/48/5e/99/1d/77/27/ac/7f/61/a3/6a0d35b3-e26c-4f7f-90ac-70ab681d9106.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7000,
+      "width": 7903,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/6a0d35b3-e26c-4f7f-90ac-70ab681d9106"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/ec/c2/47/fe/85/c5/48/5e/99/1d/77/27/ac/7f/61/a3/6a0d35b3-e26c-4f7f-90ac-70ab681d9106.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/ec/c2/47/fe/85/c5/48/5e/99/1d/77/27/ac/7f/61/a3/6a0d35b3-e26c-4f7f-90ac-70ab681d9106.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/61/6a0d35b3-e26c-4f7f-90ac-70ab681d9106\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7000,
+                "width": 7903,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/ec/c2/47/fe/85/c5/48/5e/99/1d/77/27/ac/7f/61/a3/6a0d35b3-e26c-4f7f-90ac-70ab681d9106.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/ec/c2/47/fe/85/c5/48/5e/99/1d/77/27/ac/7f/61/a3/6a0d35b3-e26c-4f7f-90ac-70ab681d9106.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
