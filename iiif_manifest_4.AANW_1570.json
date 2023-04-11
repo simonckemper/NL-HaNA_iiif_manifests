@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_1570.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_1570"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 1570, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Het Fort Nassau  Geleegen op de Goud Kust in Gunea."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of encompassing item"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Guinee"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "encompassing item id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1568-1570"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voormalige collecties RST, VKOS, KOLA en ONK"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/57/90/c2/66/a4/ae/4f/dc/b1/b4/3e/7b/a5/b3/c2/38/2b5523ce-7cec-4161-86f8-d7a933605832.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3601,
+      "width": 6037,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/2b5523ce-7cec-4161-86f8-d7a933605832"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/57/90/c2/66/a4/ae/4f/dc/b1/b4/3e/7b/a5/b3/c2/38/2b5523ce-7cec-4161-86f8-d7a933605832.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/57/90/c2/66/a4/ae/4f/dc/b1/b4/3e/7b/a5/b3/c2/38/2b5523ce-7cec-4161-86f8-d7a933605832.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/c2/2b5523ce-7cec-4161-86f8-d7a933605832\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3601,
+                "width": 6037,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/57/90/c2/66/a4/ae/4f/dc/b1/b4/3e/7b/a5/b3/c2/38/2b5523ce-7cec-4161-86f8-d7a933605832.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/57/90/c2/66/a4/ae/4f/dc/b1/b4/3e/7b/a5/b3/c2/38/2b5523ce-7cec-4161-86f8-d7a933605832.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
