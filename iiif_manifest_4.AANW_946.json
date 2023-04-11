@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_946.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_946"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 946, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ambon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[ca.1900]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "map scale"
+        ]
+      },
+      "value": {
+        "nl": [
+          "schaal 1:100.000"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Aanwinsten Kaarten en Tekeningen verworven in de periode 1976-1992"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/23/ee/b1/74/39/5c/48/6a/a9/24/7c/cb/0d/b8/15/1d/18ff3370-5419-451a-9e8c-b0cba842cb12.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5037,
+      "width": 6712,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/18ff3370-5419-451a-9e8c-b0cba842cb12"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/23/ee/b1/74/39/5c/48/6a/a9/24/7c/cb/0d/b8/15/1d/18ff3370-5419-451a-9e8c-b0cba842cb12.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/23/ee/b1/74/39/5c/48/6a/a9/24/7c/cb/0d/b8/15/1d/18ff3370-5419-451a-9e8c-b0cba842cb12.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/15/18ff3370-5419-451a-9e8c-b0cba842cb12\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5037,
+                "width": 6712,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/23/ee/b1/74/39/5c/48/6a/a9/24/7c/cb/0d/b8/15/1d/18ff3370-5419-451a-9e8c-b0cba842cb12.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/23/ee/b1/74/39/5c/48/6a/a9/24/7c/cb/0d/b8/15/1d/18ff3370-5419-451a-9e8c-b0cba842cb12.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
