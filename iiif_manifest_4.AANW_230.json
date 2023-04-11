@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_230.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_230"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 230, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Oostzee"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "z.j."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Aanwinsten Kaarten en Tekeningen verworven in de periode 1925-1949"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/06/3b/38/31/bd/07/46/b4/95/fd/60/ee/17/a4/46/da/155aae15-16f3-4c97-923e-cb32b51f4fa2.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 8009,
+      "width": 13049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/155aae15-16f3-4c97-923e-cb32b51f4fa2"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/06/3b/38/31/bd/07/46/b4/95/fd/60/ee/17/a4/46/da/155aae15-16f3-4c97-923e-cb32b51f4fa2.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/06/3b/38/31/bd/07/46/b4/95/fd/60/ee/17/a4/46/da/155aae15-16f3-4c97-923e-cb32b51f4fa2.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/46/155aae15-16f3-4c97-923e-cb32b51f4fa2\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8009,
+                "width": 13049,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/06/3b/38/31/bd/07/46/b4/95/fd/60/ee/17/a4/46/da/155aae15-16f3-4c97-923e-cb32b51f4fa2.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/06/3b/38/31/bd/07/46/b4/95/fd/60/ee/17/a4/46/da/155aae15-16f3-4c97-923e-cb32b51f4fa2.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
