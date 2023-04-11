@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_1447.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_1447"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 1447, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Riouw, Singapore en Linga"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1848"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voormalige collecties RST, VKOS, KOLA en ONK"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/22/fd/f8/91/46/1a/45/2f/9c/52/ed/ab/9b/00/56/5c/22fe9ed0-9e91-4511-9feb-6244a7bcf447.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7680,
+      "width": 4843,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/22fe9ed0-9e91-4511-9feb-6244a7bcf447"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/22/fd/f8/91/46/1a/45/2f/9c/52/ed/ab/9b/00/56/5c/22fe9ed0-9e91-4511-9feb-6244a7bcf447.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/22/fd/f8/91/46/1a/45/2f/9c/52/ed/ab/9b/00/56/5c/22fe9ed0-9e91-4511-9feb-6244a7bcf447.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/56/22fe9ed0-9e91-4511-9feb-6244a7bcf447\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7680,
+                "width": 4843,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/22/fd/f8/91/46/1a/45/2f/9c/52/ed/ab/9b/00/56/5c/22fe9ed0-9e91-4511-9feb-6244a7bcf447.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/22/fd/f8/91/46/1a/45/2f/9c/52/ed/ab/9b/00/56/5c/22fe9ed0-9e91-4511-9feb-6244a7bcf447.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
