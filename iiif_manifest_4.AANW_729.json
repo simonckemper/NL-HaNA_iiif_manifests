@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_729.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_729"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 729, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Noordplaspolder"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1795"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Aanwinsten Kaarten en Tekeningen verworven in de periode 1976-1992"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/b4/1b/c1/ae/23/45/46/a6/b3/18/ce/55/77/a6/b9/3e/d983c03c-f5a9-45b2-8f52-b86ed0e8fa5c.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6553,
+      "width": 11230,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/d983c03c-f5a9-45b2-8f52-b86ed0e8fa5c"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/b4/1b/c1/ae/23/45/46/a6/b3/18/ce/55/77/a6/b9/3e/d983c03c-f5a9-45b2-8f52-b86ed0e8fa5c.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/b4/1b/c1/ae/23/45/46/a6/b3/18/ce/55/77/a6/b9/3e/d983c03c-f5a9-45b2-8f52-b86ed0e8fa5c.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/b9/d983c03c-f5a9-45b2-8f52-b86ed0e8fa5c\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6553,
+                "width": 11230,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/b4/1b/c1/ae/23/45/46/a6/b3/18/ce/55/77/a6/b9/3e/d983c03c-f5a9-45b2-8f52-b86ed0e8fa5c.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/b4/1b/c1/ae/23/45/46/a6/b3/18/ce/55/77/a6/b9/3e/d983c03c-f5a9-45b2-8f52-b86ed0e8fa5c.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
