@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.AANW_954.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.AANW_954"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.AANW, 954, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overzichtskaart van Wester Afdeling Borneo opgenomen in 1886-1894, "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 blad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "map scale"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaal 1:500.000"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of encompassing item"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Indonesi\u00eb. Kaarten van Indonesi\u00eb bijlagen bij het tijdschrift van het Kon. Ned.Aardrijkskundig Genootschap."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "encompassing item id:"
+        ]
+      },
+      "value": {
+        "nl": [
+          "953-958"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Aanwinsten Kaarten en Tekeningen verworven in de periode 1976-1992"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Algemeen Rijksarchief'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/58/ee/3a/8e/29/27/46/48/b7/dd/d2/3d/a3/18/96/45/ad7082cb-f80d-47e6-bce4-c8a13ca7f234.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5346,
+      "width": 6742,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/ad7082cb-f80d-47e6-bce4-c8a13ca7f234"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/58/ee/3a/8e/29/27/46/48/b7/dd/d2/3d/a3/18/96/45/ad7082cb-f80d-47e6-bce4-c8a13ca7f234.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/58/ee/3a/8e/29/27/46/48/b7/dd/d2/3d/a3/18/96/45/ad7082cb-f80d-47e6-bce4-c8a13ca7f234.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/96/ad7082cb-f80d-47e6-bce4-c8a13ca7f234\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5346,
+                "width": 6742,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/58/ee/3a/8e/29/27/46/48/b7/dd/d2/3d/a3/18/96/45/ad7082cb-f80d-47e6-bce4-c8a13ca7f234.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/58/ee/3a/8e/29/27/46/48/b7/dd/d2/3d/a3/18/96/45/ad7082cb-f80d-47e6-bce4-c8a13ca7f234.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
