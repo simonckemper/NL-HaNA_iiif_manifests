@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.VEL_945A.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.VEL_945A"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.VEL, 945A, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bijlage 1: plattegrond met detail en profiellen betreffende de staat van de vestingwerken van de oude stad van Colombo, met voorstellen tot verbetering, opgesteld door ing. Jan Christiaansz. Toorzee, 15 januari 1693"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Comptoir Enkhuizen', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Oud Archief Suriname: Gouvernementssecretarie', 'Verenigde Oostindische Compagnie', 'Ministerie van Koophandel en Koloni\u00ebn', 'Kamer Zeeland', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Depot-Generaal van Oorlog', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Directie van de Soci\u00ebteit van Berbice', 'Algemene Directie', 'Departement van de Equipage', 'Kamer Amsterdam', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie van de Soci\u00ebteit van Suriname', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Staten van Holland en West-Friesland', 'Hollandse Divisie', 'Ministerie van Marine en Koloni\u00ebn', 'Westindische Compagnie', 'Comptoir Hoorn', 'Boekhouder- en Ontvanger-Generaal'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/4a/3d/07/0a/0e/96/40/15/ba/3c/b0/a0/17/62/88/83/94cb9e60-7284-44d0-b994-874217a779e8.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 20683,
+      "width": 8823,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/94cb9e60-7284-44d0-b994-874217a779e8"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/4a/3d/07/0a/0e/96/40/15/ba/3c/b0/a0/17/62/88/83/94cb9e60-7284-44d0-b994-874217a779e8.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/4a/3d/07/0a/0e/96/40/15/ba/3c/b0/a0/17/62/88/83/94cb9e60-7284-44d0-b994-874217a779e8.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/88/94cb9e60-7284-44d0-b994-874217a779e8\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 20683,
+                "width": 8823,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/4a/3d/07/0a/0e/96/40/15/ba/3c/b0/a0/17/62/88/83/94cb9e60-7284-44d0-b994-874217a779e8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/4a/3d/07/0a/0e/96/40/15/ba/3c/b0/a0/17/62/88/83/94cb9e60-7284-44d0-b994-874217a779e8.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
