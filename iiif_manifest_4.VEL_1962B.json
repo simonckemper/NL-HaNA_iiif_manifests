@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.VEL_1962B.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.VEL_1962B"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.VEL, 1962B, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schetskaarten van eenige stukken land, gelegen aan de bovenlyn van de Plantagie de Dankbaarheid, zonder omschrijving."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "This record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "{'Comptoir Enkhuizen', 'Raad der Koloni\u00ebn in West-Indi\u00eb', 'Oud Archief Suriname: Gouvernementssecretarie', 'Verenigde Oostindische Compagnie', 'Ministerie van Koophandel en Koloni\u00ebn', 'Kamer Zeeland', 'Directie ad interim voor de Westindische Koloni\u00ebn', 'Depot-Generaal van Oorlog', 'Comit\u00e9 tot de Oost-Indische Handel en Bezittingen', 'Directie van de Soci\u00ebteit van Berbice', 'Algemene Directie', 'Departement van de Equipage', 'Kamer Amsterdam', 'Raad der Amerikaanse Bezittingen en Etablissementen', 'Directie van de Soci\u00ebteit van Suriname', 'Comit\u00e9 tot de Zaken Koloni\u00ebn en Bezittingen op de Kust Guinea en in Amerika', 'Staten van Holland en West-Friesland', 'Hollandse Divisie', 'Ministerie van Marine en Koloni\u00ebn', 'Westindische Compagnie', 'Comptoir Hoorn', 'Boekhouder- en Ontvanger-Generaal'}"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/66/cd/30/4f/8c/bd/48/a3/9c/a8/39/9c/3e/bb/7a/3f/2a8cd1c9-e8e4-4526-b33a-225f0381b8c0.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6193,
+      "width": 8218,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "https://service.archief.nl/gaf/api/file/v1/default/2a8cd1c9-e8e4-4526-b33a-225f0381b8c0"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/66/cd/30/4f/8c/bd/48/a3/9c/a8/39/9c/3e/bb/7a/3f/2a8cd1c9-e8e4-4526-b33a-225f0381b8c0.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/66/cd/30/4f/8c/bd/48/a3/9c/a8/39/9c/3e/bb/7a/3f/2a8cd1c9-e8e4-4526-b33a-225f0381b8c0.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/7a/2a8cd1c9-e8e4-4526-b33a-225f0381b8c0\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6193,
+                "width": 8218,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/66/cd/30/4f/8c/bd/48/a3/9c/a8/39/9c/3e/bb/7a/3f/2a8cd1c9-e8e4-4526-b33a-225f0381b8c0.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/66/cd/30/4f/8c/bd/48/a3/9c/a8/39/9c/3e/bb/7a/3f/2a8cd1c9-e8e4-4526-b33a-225f0381b8c0.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
