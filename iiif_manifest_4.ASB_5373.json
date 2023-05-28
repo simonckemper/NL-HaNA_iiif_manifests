@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.ASB_5373.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.ASB_5373"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.ASB, 5373, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "General map of Japan, Korea &amp; Manchuria\","
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Algemene Secretarie van de Nederlands Indische Regering"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/87/68/0f/79/98/36/47/99/85/24/12/ea/74/97/fa/82/85cd4b78-3d93-4fcf-b482-1c188ec40739.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3267,
+      "width": 4338,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/85cd4b78-3d93-4fcf-b482-1c188ec40739\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/87/68/0f/79/98/36/47/99/85/24/12/ea/74/97/fa/82/85cd4b78-3d93-4fcf-b482-1c188ec40739.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/87/68/0f/79/98/36/47/99/85/24/12/ea/74/97/fa/82/85cd4b78-3d93-4fcf-b482-1c188ec40739.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/fa/85cd4b78-3d93-4fcf-b482-1c188ec40739\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3267,
+                "width": 4338,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/87/68/0f/79/98/36/47/99/85/24/12/ea/74/97/fa/82/85cd4b78-3d93-4fcf-b482-1c188ec40739.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/87/68/0f/79/98/36/47/99/85/24/12/ea/74/97/fa/82/85cd4b78-3d93-4fcf-b482-1c188ec40739.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
