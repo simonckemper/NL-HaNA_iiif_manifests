@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_849.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_849"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 849, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Reede van Manado.' Opgenomen met Zr. Ms. stoomschip Haarlemmermeer in 1864. Uitgave Batavia. Litho."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nationale Nijverheid en Koloni\u00ebn",
+          "Ministerie van Koloni\u00ebn",
+          "Generale Directie van Koophandel en Koloni\u00ebn",
+          "Ministerie van Overzeese Gebiedsdelen",
+          "Ministerie van Overzeese Rijksdelen",
+          "Ministerie van Waterstaat",
+          "Ministerie van Zaken Overzee",
+          "Secretariaat van Koophandel en Koloni\u00ebn",
+          "Regeringscommissaris voor Indonesische Aangelegenheden",
+          "Ministerie van Publiek Onderwijs",
+          "Ministerie van Nationale Nijverheid en Koloni\u00ebn",
+          "Nationale nijverheid en Koloni\u00ebn",
+          "Ministerie van Uniezaken en Overzeese Rijksdelen",
+          "Ministerie van Marine en Koloni\u00ebn"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/fc/21/42/72/b6/d1/4a/39/8f/67/17/20/d4/a6/84/4c/b672b1a5-799b-4625-8f13-2bbdab9d78db.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3731,
+      "width": 5744,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/b672b1a5-799b-4625-8f13-2bbdab9d78db\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/fc/21/42/72/b6/d1/4a/39/8f/67/17/20/d4/a6/84/4c/b672b1a5-799b-4625-8f13-2bbdab9d78db.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/fc/21/42/72/b6/d1/4a/39/8f/67/17/20/d4/a6/84/4c/b672b1a5-799b-4625-8f13-2bbdab9d78db.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/84/b672b1a5-799b-4625-8f13-2bbdab9d78db\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3731,
+                "width": 5744,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/fc/21/42/72/b6/d1/4a/39/8f/67/17/20/d4/a6/84/4c/b672b1a5-799b-4625-8f13-2bbdab9d78db.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/fc/21/42/72/b6/d1/4a/39/8f/67/17/20/d4/a6/84/4c/b672b1a5-799b-4625-8f13-2bbdab9d78db.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
