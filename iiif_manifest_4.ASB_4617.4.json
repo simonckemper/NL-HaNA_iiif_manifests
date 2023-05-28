@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.ASB_4617.4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.ASB_4617.4"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.ASB, 4617.4, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 4"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "part of the subseries"
+        ]
+      },
+      "value": {
+        "nl": [
+          "GEDURENDE DE BESPREKINGEN ONDER AUSPICIEN VAN DE UNITED NATIONS COMMISSION FOR INDONESIA."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "subseries id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "meta series id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "B."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Algemene Secretarie van de Nederlands Indische Regering"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/23/84/b9/89/e3/3e/42/5d/af/2f/5b/f2/bd/2a/e2/ff/32ec8a94-c8cc-4952-8513-2186ad03b001.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 4063,
+      "width": 2609,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/32ec8a94-c8cc-4952-8513-2186ad03b001\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/23/84/b9/89/e3/3e/42/5d/af/2f/5b/f2/bd/2a/e2/ff/32ec8a94-c8cc-4952-8513-2186ad03b001.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/23/84/b9/89/e3/3e/42/5d/af/2f/5b/f2/bd/2a/e2/ff/32ec8a94-c8cc-4952-8513-2186ad03b001.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/e2/32ec8a94-c8cc-4952-8513-2186ad03b001\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4063,
+                "width": 2609,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/23/84/b9/89/e3/3e/42/5d/af/2f/5b/f2/bd/2a/e2/ff/32ec8a94-c8cc-4952-8513-2186ad03b001.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/23/84/b9/89/e3/3e/42/5d/af/2f/5b/f2/bd/2a/e2/ff/32ec8a94-c8cc-4952-8513-2186ad03b001.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
