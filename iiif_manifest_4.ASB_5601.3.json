@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.ASB_5601.3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.ASB_5601.3"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.ASB, 5601.3, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "[No. 3]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "affiche"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Algemene Secretarie van de Nederlands Indische Regering"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/22/39/68/9b/04/3b/4d/f4/8a/73/e7/83/cd/23/c8/1c/a0d3a07e-bfd6-473a-b0fe-7fc7ace377ba.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5221,
+      "width": 3476,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/a0d3a07e-bfd6-473a-b0fe-7fc7ace377ba\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/22/39/68/9b/04/3b/4d/f4/8a/73/e7/83/cd/23/c8/1c/a0d3a07e-bfd6-473a-b0fe-7fc7ace377ba.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/22/39/68/9b/04/3b/4d/f4/8a/73/e7/83/cd/23/c8/1c/a0d3a07e-bfd6-473a-b0fe-7fc7ace377ba.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/c8/a0d3a07e-bfd6-473a-b0fe-7fc7ace377ba\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5221,
+                "width": 3476,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/22/39/68/9b/04/3b/4d/f4/8a/73/e7/83/cd/23/c8/1c/a0d3a07e-bfd6-473a-b0fe-7fc7ace377ba.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/22/39/68/9b/04/3b/4d/f4/8a/73/e7/83/cd/23/c8/1c/a0d3a07e-bfd6-473a-b0fe-7fc7ace377ba.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
