@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_1.10.59_843.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "1.10.59_843"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 1.10.59, 843, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kaart van een gedeelte van de Kaapkolonie ten noorden van baai Fals, waarop de route en de verblijfplaatsen van Nederburgh staan aangetekend"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Advocaat",
+          "Kaap",
+          "Batavia",
+          "Verenigde Oostindische Compagnie",
+          "Kamer Amsterdam",
+          "Commissaris-Generaal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated families"
+        ]
+      },
+      "value": {
+        "nl": [
+          "['Diest, Van', 'Fremery, De', 'Gevers', 'Mori, La', 'Nederburgh', 'Scheltus', 'Schull', 'Spiegel, Van de', 'Spruyt']"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/fa/ff/e9/86/b7/5e/42/84/98/d0/64/a3/99/29/f8/f8/d85d2836-1cc8-440b-8a86-e070aa49f45c.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3290,
+      "width": 4470,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/d85d2836-1cc8-440b-8a86-e070aa49f45c\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/fa/ff/e9/86/b7/5e/42/84/98/d0/64/a3/99/29/f8/f8/d85d2836-1cc8-440b-8a86-e070aa49f45c.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/fa/ff/e9/86/b7/5e/42/84/98/d0/64/a3/99/29/f8/f8/d85d2836-1cc8-440b-8a86-e070aa49f45c.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/f8/d85d2836-1cc8-440b-8a86-e070aa49f45c\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3290,
+                "width": 4470,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/fa/ff/e9/86/b7/5e/42/84/98/d0/64/a3/99/29/f8/f8/d85d2836-1cc8-440b-8a86-e070aa49f45c.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/fa/ff/e9/86/b7/5e/42/84/98/d0/64/a3/99/29/f8/f8/d85d2836-1cc8-440b-8a86-e070aa49f45c.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
