@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_1.10.59_1349.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "1.10.59_1349"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 1.10.59, 1349, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Van C.A. Sypesteyn, waarin zij meedeelt dat grootmoeder Everts hem en zijn broer gaarne te logeren wil hebben, 's-Gravenhage"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Advocaat",
+          "Kaap",
+          "Batavia",
+          "Verenigde Oostindische Compagnie",
+          "Kamer Amsterdam",
+          "Commissaris-Generaal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated families"
+        ]
+      },
+      "value": {
+        "nl": [
+          "['Diest, Van', 'Fremery, De', 'Gevers', 'Mori, La', 'Nederburgh', 'Scheltus', 'Schull', 'Spiegel, Van de', 'Spruyt']"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/b2/74/3b/d1/de/f0/4a/a6/86/c6/1a/04/83/cf/3b/95/f0a4eabf-a488-44dd-baf0-b2a8a180e4d8.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 2580,
+      "width": 1740,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/f0a4eabf-a488-44dd-baf0-b2a8a180e4d8\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/b2/74/3b/d1/de/f0/4a/a6/86/c6/1a/04/83/cf/3b/95/f0a4eabf-a488-44dd-baf0-b2a8a180e4d8.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/b2/74/3b/d1/de/f0/4a/a6/86/c6/1a/04/83/cf/3b/95/f0a4eabf-a488-44dd-baf0-b2a8a180e4d8.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/3b/f0a4eabf-a488-44dd-baf0-b2a8a180e4d8\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2580,
+                "width": 1740,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/b2/74/3b/d1/de/f0/4a/a6/86/c6/1a/04/83/cf/3b/95/f0a4eabf-a488-44dd-baf0-b2a8a180e4d8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/b2/74/3b/d1/de/f0/4a/a6/86/c6/1a/04/83/cf/3b/95/f0a4eabf-a488-44dd-baf0-b2a8a180e4d8.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
