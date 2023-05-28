@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1629.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1629"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1629, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Noordkust Celebes. P. Motoeo nabij Hoek Dondo tot Hoek Poloempanga.' Opgenomen in 1898 en 1899 met Hr. Ms. Banda en Java. Uitgave van het ministerie van marine, Afdeling Hydrografie, Den Haag."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nationale Nijverheid en Koloni\u00ebn",
+          "Ministerie van Koloni\u00ebn",
+          "Generale Directie van Koophandel en Koloni\u00ebn",
+          "Ministerie van Overzeese Gebiedsdelen",
+          "Ministerie van Overzeese Rijksdelen",
+          "Ministerie van Waterstaat",
+          "Ministerie van Zaken Overzee",
+          "Secretariaat van Koophandel en Koloni\u00ebn",
+          "Regeringscommissaris voor Indonesische Aangelegenheden",
+          "Ministerie van Publiek Onderwijs",
+          "Ministerie van Nationale Nijverheid en Koloni\u00ebn",
+          "Nationale nijverheid en Koloni\u00ebn",
+          "Ministerie van Uniezaken en Overzeese Rijksdelen",
+          "Ministerie van Marine en Koloni\u00ebn"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/4c/c4/fe/d0/e6/0f/42/0d/83/0a/cf/cf/6b/49/55/b0/625cfa31-ff44-4aa4-9862-540bff8b419e.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6540,
+      "width": 8294,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/625cfa31-ff44-4aa4-9862-540bff8b419e\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/4c/c4/fe/d0/e6/0f/42/0d/83/0a/cf/cf/6b/49/55/b0/625cfa31-ff44-4aa4-9862-540bff8b419e.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/4c/c4/fe/d0/e6/0f/42/0d/83/0a/cf/cf/6b/49/55/b0/625cfa31-ff44-4aa4-9862-540bff8b419e.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/55/625cfa31-ff44-4aa4-9862-540bff8b419e\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6540,
+                "width": 8294,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/4c/c4/fe/d0/e6/0f/42/0d/83/0a/cf/cf/6b/49/55/b0/625cfa31-ff44-4aa4-9862-540bff8b419e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/4c/c4/fe/d0/e6/0f/42/0d/83/0a/cf/cf/6b/49/55/b0/625cfa31-ff44-4aa4-9862-540bff8b419e.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
