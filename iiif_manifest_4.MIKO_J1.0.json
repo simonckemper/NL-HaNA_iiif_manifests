@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_J1.0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_J1.0"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, J1.0, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blad 0. Titelblad"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nationale Nijverheid en Koloni\u00ebn",
+          "Ministerie van Koloni\u00ebn",
+          "Generale Directie van Koophandel en Koloni\u00ebn",
+          "Ministerie van Overzeese Gebiedsdelen",
+          "Ministerie van Overzeese Rijksdelen",
+          "Ministerie van Waterstaat",
+          "Ministerie van Zaken Overzee",
+          "Secretariaat van Koophandel en Koloni\u00ebn",
+          "Regeringscommissaris voor Indonesische Aangelegenheden",
+          "Ministerie van Publiek Onderwijs",
+          "Ministerie van Nationale Nijverheid en Koloni\u00ebn",
+          "Nationale nijverheid en Koloni\u00ebn",
+          "Ministerie van Uniezaken en Overzeese Rijksdelen",
+          "Ministerie van Marine en Koloni\u00ebn"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/6e/da/43/3c/ec/96/45/31/a0/1e/ee/90/15/90/04/ab/943d170c-62ae-4cc3-b195-32152899bb20.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 8576,
+      "width": 6396,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/943d170c-62ae-4cc3-b195-32152899bb20\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6e/da/43/3c/ec/96/45/31/a0/1e/ee/90/15/90/04/ab/943d170c-62ae-4cc3-b195-32152899bb20.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6e/da/43/3c/ec/96/45/31/a0/1e/ee/90/15/90/04/ab/943d170c-62ae-4cc3-b195-32152899bb20.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/04/943d170c-62ae-4cc3-b195-32152899bb20\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8576,
+                "width": 6396,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6e/da/43/3c/ec/96/45/31/a0/1e/ee/90/15/90/04/ab/943d170c-62ae-4cc3-b195-32152899bb20.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6e/da/43/3c/ec/96/45/31/a0/1e/ee/90/15/90/04/ab/943d170c-62ae-4cc3-b195-32152899bb20.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
