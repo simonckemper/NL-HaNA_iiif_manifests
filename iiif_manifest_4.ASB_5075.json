@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.ASB_5075.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.ASB_5075"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.ASB, 5075, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Betreffende de bovenlanden in de residentie Palembang; <ns0:unitdate calendar=\"gregorian\" normal=\"1949\" era=\"ce\">1949</ns0:unitdate>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Algemene Secretarie van de Nederlands Indische Regering"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/27/eb/bc/1e/42/08/41/02/96/34/9d/8e/8c/bf/ee/42/99651355-ef0b-4a1f-baf8-52bde5c9992f.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6379,
+      "width": 7734,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/99651355-ef0b-4a1f-baf8-52bde5c9992f\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/27/eb/bc/1e/42/08/41/02/96/34/9d/8e/8c/bf/ee/42/99651355-ef0b-4a1f-baf8-52bde5c9992f.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/27/eb/bc/1e/42/08/41/02/96/34/9d/8e/8c/bf/ee/42/99651355-ef0b-4a1f-baf8-52bde5c9992f.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/ee/99651355-ef0b-4a1f-baf8-52bde5c9992f\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6379,
+                "width": 7734,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/27/eb/bc/1e/42/08/41/02/96/34/9d/8e/8c/bf/ee/42/99651355-ef0b-4a1f-baf8-52bde5c9992f.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/27/eb/bc/1e/42/08/41/02/96/34/9d/8e/8c/bf/ee/42/99651355-ef0b-4a1f-baf8-52bde5c9992f.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
