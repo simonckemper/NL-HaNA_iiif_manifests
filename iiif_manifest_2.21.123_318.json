@@ -1,0 +1,674 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_2.21.123_318.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "2.21.123_318"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 2.21.123, 318, 13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Beschouwing van E. Land inzake de houding van progressief Nederland ten aanzien van de Indonesische kwestie."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/6d53cbc9-8a1c-4dcc-b697-ed0be50fd651.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 2922,
+      "width": 4324,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/6d53cbc9-8a1c-4dcc-b697-ed0be50fd651\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/6d53cbc9-8a1c-4dcc-b697-ed0be50fd651.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/6d53cbc9-8a1c-4dcc-b697-ed0be50fd651.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/6d53cbc9-8a1c-4dcc-b697-ed0be50fd651\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2922,
+                "width": 4324,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/6d53cbc9-8a1c-4dcc-b697-ed0be50fd651.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/6d53cbc9-8a1c-4dcc-b697-ed0be50fd651.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/5399852c-0018-4ac8-89fd-c4f0c721b88b.jp2/info.json/canvas/p2",
+      "type": "Canvas",
+      "height": 2959,
+      "width": 2039,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/5399852c-0018-4ac8-89fd-c4f0c721b88b\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/5399852c-0018-4ac8-89fd-c4f0c721b88b.jp2/info.json/canvas/p2/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/5399852c-0018-4ac8-89fd-c4f0c721b88b.jp2/info.json/canvas/p2/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/5399852c-0018-4ac8-89fd-c4f0c721b88b\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2959,
+                "width": 2039,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/5399852c-0018-4ac8-89fd-c4f0c721b88b.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/5399852c-0018-4ac8-89fd-c4f0c721b88b.jp2/info.json/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/eef8cc5b-53d9-42aa-9a7b-11ca7b795481.jp2/info.json/canvas/p3",
+      "type": "Canvas",
+      "height": 3022,
+      "width": 3946,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/eef8cc5b-53d9-42aa-9a7b-11ca7b795481\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/eef8cc5b-53d9-42aa-9a7b-11ca7b795481.jp2/info.json/canvas/p3/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/eef8cc5b-53d9-42aa-9a7b-11ca7b795481.jp2/info.json/canvas/p3/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/eef8cc5b-53d9-42aa-9a7b-11ca7b795481\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3022,
+                "width": 3946,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/eef8cc5b-53d9-42aa-9a7b-11ca7b795481.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/eef8cc5b-53d9-42aa-9a7b-11ca7b795481.jp2/info.json/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/26f83e89-8363-40f3-aabb-abbbbd69e7c3.jp2/info.json/canvas/p4",
+      "type": "Canvas",
+      "height": 2880,
+      "width": 3786,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/26f83e89-8363-40f3-aabb-abbbbd69e7c3\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/26f83e89-8363-40f3-aabb-abbbbd69e7c3.jp2/info.json/canvas/p4/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/26f83e89-8363-40f3-aabb-abbbbd69e7c3.jp2/info.json/canvas/p4/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/26f83e89-8363-40f3-aabb-abbbbd69e7c3\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2880,
+                "width": 3786,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/26f83e89-8363-40f3-aabb-abbbbd69e7c3.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/26f83e89-8363-40f3-aabb-abbbbd69e7c3.jp2/info.json/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/e66adbd4-787c-4820-963f-b8d97a64b253.jp2/info.json/canvas/p5",
+      "type": "Canvas",
+      "height": 2917,
+      "width": 3774,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/e66adbd4-787c-4820-963f-b8d97a64b253\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/e66adbd4-787c-4820-963f-b8d97a64b253.jp2/info.json/canvas/p5/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/e66adbd4-787c-4820-963f-b8d97a64b253.jp2/info.json/canvas/p5/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/e66adbd4-787c-4820-963f-b8d97a64b253\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2917,
+                "width": 3774,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/e66adbd4-787c-4820-963f-b8d97a64b253.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/e66adbd4-787c-4820-963f-b8d97a64b253.jp2/info.json/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/3a6493c6-c549-442b-b1b5-9494e88d35aa.jp2/info.json/canvas/p6",
+      "type": "Canvas",
+      "height": 2940,
+      "width": 3796,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/3a6493c6-c549-442b-b1b5-9494e88d35aa\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/3a6493c6-c549-442b-b1b5-9494e88d35aa.jp2/info.json/canvas/p6/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/3a6493c6-c549-442b-b1b5-9494e88d35aa.jp2/info.json/canvas/p6/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/3a6493c6-c549-442b-b1b5-9494e88d35aa\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2940,
+                "width": 3796,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/3a6493c6-c549-442b-b1b5-9494e88d35aa.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/3a6493c6-c549-442b-b1b5-9494e88d35aa.jp2/info.json/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/d290e3f0-afb5-45bd-a67c-481706ac798e.jp2/info.json/canvas/p7",
+      "type": "Canvas",
+      "height": 2941,
+      "width": 3790,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/d290e3f0-afb5-45bd-a67c-481706ac798e\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/d290e3f0-afb5-45bd-a67c-481706ac798e.jp2/info.json/canvas/p7/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/d290e3f0-afb5-45bd-a67c-481706ac798e.jp2/info.json/canvas/p7/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/d290e3f0-afb5-45bd-a67c-481706ac798e\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2941,
+                "width": 3790,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/d290e3f0-afb5-45bd-a67c-481706ac798e.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/d290e3f0-afb5-45bd-a67c-481706ac798e.jp2/info.json/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/a8bf8da4-e252-49b5-b441-dfa8336afe73.jp2/info.json/canvas/p8",
+      "type": "Canvas",
+      "height": 2934,
+      "width": 3762,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/a8bf8da4-e252-49b5-b441-dfa8336afe73\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/a8bf8da4-e252-49b5-b441-dfa8336afe73.jp2/info.json/canvas/p8/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/a8bf8da4-e252-49b5-b441-dfa8336afe73.jp2/info.json/canvas/p8/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/a8bf8da4-e252-49b5-b441-dfa8336afe73\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2934,
+                "width": 3762,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/a8bf8da4-e252-49b5-b441-dfa8336afe73.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/a8bf8da4-e252-49b5-b441-dfa8336afe73.jp2/info.json/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/bab99e2d-500f-4130-b503-8099bdd303db.jp2/info.json/canvas/p9",
+      "type": "Canvas",
+      "height": 2902,
+      "width": 3790,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/bab99e2d-500f-4130-b503-8099bdd303db\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/bab99e2d-500f-4130-b503-8099bdd303db.jp2/info.json/canvas/p9/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/bab99e2d-500f-4130-b503-8099bdd303db.jp2/info.json/canvas/p9/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/bab99e2d-500f-4130-b503-8099bdd303db\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2902,
+                "width": 3790,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/bab99e2d-500f-4130-b503-8099bdd303db.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/bab99e2d-500f-4130-b503-8099bdd303db.jp2/info.json/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/4dc58fef-8c82-420e-a490-a9094f9f4810.jp2/info.json/canvas/p10",
+      "type": "Canvas",
+      "height": 2934,
+      "width": 3742,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/4dc58fef-8c82-420e-a490-a9094f9f4810\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/4dc58fef-8c82-420e-a490-a9094f9f4810.jp2/info.json/canvas/p10/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/4dc58fef-8c82-420e-a490-a9094f9f4810.jp2/info.json/canvas/p10/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/4dc58fef-8c82-420e-a490-a9094f9f4810\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2934,
+                "width": 3742,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/4dc58fef-8c82-420e-a490-a9094f9f4810.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/4dc58fef-8c82-420e-a490-a9094f9f4810.jp2/info.json/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/dfb8b3fa-79cb-49b9-919d-bcf453640790.jp2/info.json/canvas/p11",
+      "type": "Canvas",
+      "height": 2953,
+      "width": 3772,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/dfb8b3fa-79cb-49b9-919d-bcf453640790\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/dfb8b3fa-79cb-49b9-919d-bcf453640790.jp2/info.json/canvas/p11/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/dfb8b3fa-79cb-49b9-919d-bcf453640790.jp2/info.json/canvas/p11/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/dfb8b3fa-79cb-49b9-919d-bcf453640790\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2953,
+                "width": 3772,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/dfb8b3fa-79cb-49b9-919d-bcf453640790.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/dfb8b3fa-79cb-49b9-919d-bcf453640790.jp2/info.json/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/35030611-248e-4978-ae2b-453aea7488e8.jp2/info.json/canvas/p12",
+      "type": "Canvas",
+      "height": 2974,
+      "width": 3816,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/35030611-248e-4978-ae2b-453aea7488e8\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/35030611-248e-4978-ae2b-453aea7488e8.jp2/info.json/canvas/p12/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/35030611-248e-4978-ae2b-453aea7488e8.jp2/info.json/canvas/p12/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/35030611-248e-4978-ae2b-453aea7488e8\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2974,
+                "width": 3816,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/35030611-248e-4978-ae2b-453aea7488e8.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/35030611-248e-4978-ae2b-453aea7488e8.jp2/info.json/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/ee456ed7-b359-4b60-9abf-05aa713e4cc4.jp2/info.json/canvas/p13",
+      "type": "Canvas",
+      "height": 2988,
+      "width": 3792,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/ee456ed7-b359-4b60-9abf-05aa713e4cc4\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/ee456ed7-b359-4b60-9abf-05aa713e4cc4.jp2/info.json/canvas/p13/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/ee456ed7-b359-4b60-9abf-05aa713e4cc4.jp2/info.json/canvas/p13/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/01/ee456ed7-b359-4b60-9abf-05aa713e4cc4\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2988,
+                "width": 3792,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/ee456ed7-b359-4b60-9abf-05aa713e4cc4.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6d/65/fb/89/95/66/45/3f/a3/15/78/37/22/a2/01/53/ee456ed7-b359-4b60-9abf-05aa713e4cc4.jp2/info.json/canvas/p13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
