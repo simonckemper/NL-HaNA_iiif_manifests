@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_1.10.59_1239.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "1.10.59_1239"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 1.10.59, 1239, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Brief van J.J.A.A. Frantzen, secretaris van de Maatschappij der Nederlandsche letterkunde te Leiden, waarin hij Nederburgh meedeelt, dat hij als lid is aangenomen. Gedrukt."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Advocaat",
+          "Kaap",
+          "Batavia",
+          "Verenigde Oostindische Compagnie",
+          "Kamer Amsterdam",
+          "Commissaris-Generaal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated families"
+        ]
+      },
+      "value": {
+        "nl": [
+          "['Diest, Van', 'Fremery, De', 'Gevers', 'Mori, La', 'Nederburgh', 'Scheltus', 'Schull', 'Spiegel, Van de', 'Spruyt']"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/70/ab/0c/b2/34/f9/47/a8/9e/04/c6/c7/19/f9/cf/c7/586dd9c2-7c5f-408a-a431-c9615574fd87.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3310,
+      "width": 2550,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/586dd9c2-7c5f-408a-a431-c9615574fd87\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/70/ab/0c/b2/34/f9/47/a8/9e/04/c6/c7/19/f9/cf/c7/586dd9c2-7c5f-408a-a431-c9615574fd87.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/70/ab/0c/b2/34/f9/47/a8/9e/04/c6/c7/19/f9/cf/c7/586dd9c2-7c5f-408a-a431-c9615574fd87.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/cf/586dd9c2-7c5f-408a-a431-c9615574fd87\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3310,
+                "width": 2550,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/70/ab/0c/b2/34/f9/47/a8/9e/04/c6/c7/19/f9/cf/c7/586dd9c2-7c5f-408a-a431-c9615574fd87.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/70/ab/0c/b2/34/f9/47/a8/9e/04/c6/c7/19/f9/cf/c7/586dd9c2-7c5f-408a-a431-c9615574fd87.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
