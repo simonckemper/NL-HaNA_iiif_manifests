@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_1836.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_1836"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 1836, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Noordkust Celebes. Mariri tot Noordkaap.' Opgenomen in 1907 met Hr. Ms. opnemingsvaartuig Borneo. Uitgave van het ministerie van marine, Afdeling Hydrografie, Den Haag."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nationale Nijverheid en Koloni\u00ebn",
+          "Ministerie van Koloni\u00ebn",
+          "Generale Directie van Koophandel en Koloni\u00ebn",
+          "Ministerie van Overzeese Gebiedsdelen",
+          "Ministerie van Overzeese Rijksdelen",
+          "Ministerie van Waterstaat",
+          "Ministerie van Zaken Overzee",
+          "Secretariaat van Koophandel en Koloni\u00ebn",
+          "Regeringscommissaris voor Indonesische Aangelegenheden",
+          "Ministerie van Publiek Onderwijs",
+          "Ministerie van Nationale Nijverheid en Koloni\u00ebn",
+          "Nationale nijverheid en Koloni\u00ebn",
+          "Ministerie van Uniezaken en Overzeese Rijksdelen",
+          "Ministerie van Marine en Koloni\u00ebn"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/1b/19/6f/c6/17/c3/46/6a/b1/62/70/68/81/7a/7f/89/59472a30-3a54-4ffd-b017-849f9fcda42a.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 8301,
+      "width": 6543,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/59472a30-3a54-4ffd-b017-849f9fcda42a\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/1b/19/6f/c6/17/c3/46/6a/b1/62/70/68/81/7a/7f/89/59472a30-3a54-4ffd-b017-849f9fcda42a.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/1b/19/6f/c6/17/c3/46/6a/b1/62/70/68/81/7a/7f/89/59472a30-3a54-4ffd-b017-849f9fcda42a.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/7f/59472a30-3a54-4ffd-b017-849f9fcda42a\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8301,
+                "width": 6543,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/1b/19/6f/c6/17/c3/46/6a/b1/62/70/68/81/7a/7f/89/59472a30-3a54-4ffd-b017-849f9fcda42a.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/1b/19/6f/c6/17/c3/46/6a/b1/62/70/68/81/7a/7f/89/59472a30-3a54-4ffd-b017-849f9fcda42a.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
