@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_1.10.59_1497.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "1.10.59_1497"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 1.10.59, 1497, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verklaring van Jacomina La Mori, weduwe van Johannes Schull dd. 22 juni 1730, dat zij haar dochter Cornelia Schull haar vaderlijke erfdeel heeft uitbetaald. Afschrift"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Advocaat",
+          "Kaap",
+          "Batavia",
+          "Verenigde Oostindische Compagnie",
+          "Kamer Amsterdam",
+          "Commissaris-Generaal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated families"
+        ]
+      },
+      "value": {
+        "nl": [
+          "['Diest, Van', 'Fremery, De', 'Gevers', 'Mori, La', 'Nederburgh', 'Scheltus', 'Schull', 'Spiegel, Van de', 'Spruyt']"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/15/f9/f8/41/73/87/4e/67/82/5b/e7/72/d1/89/8b/d2/efb72773-6ba3-4793-89b2-0aa2fee824de.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 4040,
+      "width": 2580,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/efb72773-6ba3-4793-89b2-0aa2fee824de\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/15/f9/f8/41/73/87/4e/67/82/5b/e7/72/d1/89/8b/d2/efb72773-6ba3-4793-89b2-0aa2fee824de.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/15/f9/f8/41/73/87/4e/67/82/5b/e7/72/d1/89/8b/d2/efb72773-6ba3-4793-89b2-0aa2fee824de.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/8b/efb72773-6ba3-4793-89b2-0aa2fee824de\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4040,
+                "width": 2580,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/15/f9/f8/41/73/87/4e/67/82/5b/e7/72/d1/89/8b/d2/efb72773-6ba3-4793-89b2-0aa2fee824de.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/15/f9/f8/41/73/87/4e/67/82/5b/e7/72/d1/89/8b/d2/efb72773-6ba3-4793-89b2-0aa2fee824de.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
