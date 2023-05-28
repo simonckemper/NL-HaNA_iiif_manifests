@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.ASB_5076.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.ASB_5076"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.ASB, 5076, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Betreffende de frequentie en de omvang van patrouillering in de residentie Bangka en Billiton en op de vaste wal van de residentie Riouw; <ns0:unitdate calendar=\"gregorian\" normal=\"1949\" era=\"ce\">1949</ns0:unitdate>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Algemene Secretarie van de Nederlands Indische Regering"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/50/01/7a/f7/b3/42/4f/6b/80/27/d5/da/97/9a/8d/db/f3b1b93d-ee1c-42b4-bd9f-fb53daa21fc2.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6348,
+      "width": 8878,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/f3b1b93d-ee1c-42b4-bd9f-fb53daa21fc2\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/50/01/7a/f7/b3/42/4f/6b/80/27/d5/da/97/9a/8d/db/f3b1b93d-ee1c-42b4-bd9f-fb53daa21fc2.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/50/01/7a/f7/b3/42/4f/6b/80/27/d5/da/97/9a/8d/db/f3b1b93d-ee1c-42b4-bd9f-fb53daa21fc2.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/8d/f3b1b93d-ee1c-42b4-bd9f-fb53daa21fc2\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6348,
+                "width": 8878,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/50/01/7a/f7/b3/42/4f/6b/80/27/d5/da/97/9a/8d/db/f3b1b93d-ee1c-42b4-bd9f-fb53daa21fc2.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/50/01/7a/f7/b3/42/4f/6b/80/27/d5/da/97/9a/8d/db/f3b1b93d-ee1c-42b4-bd9f-fb53daa21fc2.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
