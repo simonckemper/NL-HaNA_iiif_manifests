@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_599.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_599"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 599, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Torres-Strait. North-east entrance along the coast of New Guinea.' Opgenomen door kap. T.P. Blackwood in 1845. Uitgave van het Hydrographic Office of the Admirality."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nationale Nijverheid en Koloni\u00ebn",
+          "Ministerie van Koloni\u00ebn",
+          "Generale Directie van Koophandel en Koloni\u00ebn",
+          "Ministerie van Overzeese Gebiedsdelen",
+          "Ministerie van Overzeese Rijksdelen",
+          "Ministerie van Waterstaat",
+          "Ministerie van Zaken Overzee",
+          "Secretariaat van Koophandel en Koloni\u00ebn",
+          "Regeringscommissaris voor Indonesische Aangelegenheden",
+          "Ministerie van Publiek Onderwijs",
+          "Ministerie van Nationale Nijverheid en Koloni\u00ebn",
+          "Nationale nijverheid en Koloni\u00ebn",
+          "Ministerie van Uniezaken en Overzeese Rijksdelen",
+          "Ministerie van Marine en Koloni\u00ebn"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/dd/39/16/65/38/eb/42/9e/9f/2c/7b/10/24/23/74/ac/12185b2f-bbe5-4af0-adb3-048d35e4f1c7.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 11590,
+      "width": 8110,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/12185b2f-bbe5-4af0-adb3-048d35e4f1c7\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/dd/39/16/65/38/eb/42/9e/9f/2c/7b/10/24/23/74/ac/12185b2f-bbe5-4af0-adb3-048d35e4f1c7.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/dd/39/16/65/38/eb/42/9e/9f/2c/7b/10/24/23/74/ac/12185b2f-bbe5-4af0-adb3-048d35e4f1c7.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/74/12185b2f-bbe5-4af0-adb3-048d35e4f1c7\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 11590,
+                "width": 8110,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/dd/39/16/65/38/eb/42/9e/9f/2c/7b/10/24/23/74/ac/12185b2f-bbe5-4af0-adb3-048d35e4f1c7.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/dd/39/16/65/38/eb/42/9e/9f/2c/7b/10/24/23/74/ac/12185b2f-bbe5-4af0-adb3-048d35e4f1c7.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
