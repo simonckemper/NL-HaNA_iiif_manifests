@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_4.MIKO_638.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "4.MIKO_638"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 4.MIKO, 638, 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "'Figuratieve schets van den Noordoosthoek van het eiland Boeroe.' Opgenomen in 1847. Kopie door F. Cronenberg."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "kaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nationale Nijverheid en Koloni\u00ebn",
+          "Ministerie van Koloni\u00ebn",
+          "Generale Directie van Koophandel en Koloni\u00ebn",
+          "Ministerie van Overzeese Gebiedsdelen",
+          "Ministerie van Overzeese Rijksdelen",
+          "Ministerie van Waterstaat",
+          "Ministerie van Zaken Overzee",
+          "Secretariaat van Koophandel en Koloni\u00ebn",
+          "Regeringscommissaris voor Indonesische Aangelegenheden",
+          "Ministerie van Publiek Onderwijs",
+          "Ministerie van Nationale Nijverheid en Koloni\u00ebn",
+          "Nationale nijverheid en Koloni\u00ebn",
+          "Ministerie van Uniezaken en Overzeese Rijksdelen",
+          "Ministerie van Marine en Koloni\u00ebn"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/17/52/a5/8d/7b/f7/44/8e/b3/30/de/6f/77/49/a9/31/7e359308-29e7-4006-b78c-ba367881df88.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5648,
+      "width": 6249,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/7e359308-29e7-4006-b78c-ba367881df88\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/17/52/a5/8d/7b/f7/44/8e/b3/30/de/6f/77/49/a9/31/7e359308-29e7-4006-b78c-ba367881df88.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/17/52/a5/8d/7b/f7/44/8e/b3/30/de/6f/77/49/a9/31/7e359308-29e7-4006-b78c-ba367881df88.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/a9/7e359308-29e7-4006-b78c-ba367881df88\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5648,
+                "width": 6249,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/17/52/a5/8d/7b/f7/44/8e/b3/30/de/6f/77/49/a9/31/7e359308-29e7-4006-b78c-ba367881df88.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/17/52/a5/8d/7b/f7/44/8e/b3/30/de/6f/77/49/a9/31/7e359308-29e7-4006-b78c-ba367881df88.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
