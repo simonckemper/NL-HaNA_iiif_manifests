@@ -1,0 +1,210 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/simonckemper/NL-HaNA_iiif_manifests/main/iiif_manifest_1.04.01_9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "1.04.01_9"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "inventory number, record number and page"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Manifest description for 1.04.01, 9, 2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "record title"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Brief aan Gerryt van Boninghen aan Jan Jansz. Molenaer. <ns0:unitdate calendar=\"gregorian\" era=\"ce\">1596 september 30</ns0:unitdate>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "physical state of record"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 stuk"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "subseries id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "A."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "part of the series"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Compagnie\u00ebn te Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "series id"
+        ]
+      },
+      "value": {
+        "nl": [
+          "I."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "this record is classified as"
+        ]
+      },
+      "value": {
+        "nl": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "associated organisations"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Compagnie van Verre (Amsterdam)",
+          "Oude Oost-Indische Compagnie en Eerste Verenigde Compagnie op Oost-Indi\u00eb (Amsterdam)",
+          "Compagnie op Oost-Indi\u00eb (Middelburg)",
+          "Compagnie op Oost-Indi\u00eb (Delft)",
+          "Nieuwe Brabantse Compagnie (Amsterdam)"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/8d9f6562-c015-4114-ab8c-cfd59e309b5b.jp2/info.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3560,
+      "width": 2510,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/8d9f6562-c015-4114-ab8c-cfd59e309b5b\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/8d9f6562-c015-4114-ab8c-cfd59e309b5b.jp2/info.json/canvas/p1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/8d9f6562-c015-4114-ab8c-cfd59e309b5b.jp2/info.json/canvas/p1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/2f/8d9f6562-c015-4114-ab8c-cfd59e309b5b\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3560,
+                "width": 2510,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/8d9f6562-c015-4114-ab8c-cfd59e309b5b.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/8d9f6562-c015-4114-ab8c-cfd59e309b5b.jp2/info.json/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/f441b771-e7cf-4def-b09d-27592fc82b4b.jp2/info.json/canvas/p2",
+      "type": "Canvas",
+      "height": 2450,
+      "width": 3560,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "download original image"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<span> link to the image at the <a href=\"https://service.archief.nl/gaf/api/file/v1/default/f441b771-e7cf-4def-b09d-27592fc82b4b\">National Archives of the Netherlands</a></span>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/f441b771-e7cf-4def-b09d-27592fc82b4b.jp2/info.json/canvas/p2/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/f441b771-e7cf-4def-b09d-27592fc82b4b.jp2/info.json/canvas/p2/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/2f/f441b771-e7cf-4def-b09d-27592fc82b4b\\.jp2/full/full/0/default\\.jp2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2450,
+                "width": 3560,
+                "service": [
+                  {
+                    "id": "https://service.archief.nl/iipsrv?IIIF=/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/f441b771-e7cf-4def-b09d-27592fc82b4b.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://service.archief.nl/iip/6e/17/40/0b/fb/e3/4d/33/b5/8b/7d/13/07/72/2f/0d/f441b771-e7cf-4def-b09d-27592fc82b4b.jp2/info.json/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
